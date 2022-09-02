@@ -1,0 +1,6 @@
+.container{
+    display:grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap:5px;
+    min-height: 100vh;
+}

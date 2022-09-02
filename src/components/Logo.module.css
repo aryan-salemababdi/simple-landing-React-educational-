@@ -1,0 +1,20 @@
+.container{
+    text-align:center;
+    margin:60px;
+}
+.container h3{
+    color: #500505;
+    font-size:3rem;
+    font-weight:bold;
+    margin-top:20px;
+}
+.container div{
+    width:200px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+.container img{
+    width:300px;
+    margin-top:50px;
+}

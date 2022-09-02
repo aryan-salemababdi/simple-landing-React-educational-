@@ -1,0 +1,19 @@
+.container{
+    position: relative;
+    width:100%;
+}
+.container img{
+    width:100%;
+    background-size:cover;
+}
+.textcontainer{
+    position: absolute;
+    top:150px;
+    left:100px;
+    font-family:bold;
+    text-align:center;
+    color:#ffffff;
+}
+.textcontainer span{
+    color: blue;
+}
